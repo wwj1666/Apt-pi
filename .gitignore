@@ -50,3 +50,16 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.metadata/
+art-pi/libraries/
+art-pi/rt-thread/tools/
+art-pi/rt-thread/libcpu/arm/cortex-a/mmu.h
+art-pi/rt-thread/libcpu/
+art-pi/rt-thread/components/dfs/filesystems/jffs2/kernel/linux/vmalloc.h
+art-pi/rt-thread/components/dfs/
+art-pi/rt-thread/components/drivers/usb/
+art-pi/rt-thread/components/net/uip/
+art-pi/rt-thread/components/vmm/
+art-pi/rt-thread/components/net/lwip-2.1.2/
+art-pi/rt-thread/components/net/lwip-2.0.2/
+art-pi/rt-thread/components/net/lwip-1.4.1/
